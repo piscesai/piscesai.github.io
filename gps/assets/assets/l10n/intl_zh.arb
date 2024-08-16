@@ -1,0 +1,46 @@
+{
+"@@locale": "zh",
+"file_main": "********************main.dart",
+  "title": "GPS采集器",
+  "getGPS": "获取GPS",
+  "save": "保存",
+  "clear": "清除",
+  "footprint": "足迹",
+  "exit": "退出",
+
+  "failed_to_get_external_storage_directory": "获取外部存储目录失败。",
+  "location_permissions_are_denied":"获取存储权限失败。",
+  "location_permissions_are_permanently_denied":"无法获取存储权限。",
+  "saved_successfully": "保存成功",
+  "failed_to_save": "保存失败",
+  "failed_to_get_location": "获取位置失败",
+  "saved_directory_not_available": "保存目录不可用。",
+  "warning":"提示",
+  "exit_no_saved": "有数据没有保存，是否保存？",
+  "no": "否",
+  "yes": "是",
+  "select_sign": "选择路标",
+  "input_remark": "输入备注",
+
+"file_settings": "********************settings_screen.dart",
+  "settings": "设置",
+  "auto_data_collection": "自动采集GPS",
+  "data_collection_interval": "自动采集间隔 (秒):",
+  "hint_interval": "间隔",
+  "auto_save_interval": "自动保存间隔 (分):",
+  "language":"语言:",
+  "english":"英语",
+  "chinese":"中文",
+
+"file_footprint": "********************footprint_screen.dart",
+  "select_files": "选择文件",
+  "select_all": "选择所有文件",
+  "special_location": "特殊位置",
+  "new_gps_data": "新GPS数据",
+  "load_gps_file":"打开GPS文件",
+  "cancel": "返回",
+  "ok": "确定",
+  "no_file": "没有记录文件"
+
+}
+

@@ -1,0 +1,8 @@
+{
+  "isEnglish": true,
+  "autoDataCollection": false,
+  "dataCollectionInterval": 3, 
+  "autoSaveInterval": 10, 
+
+  "threshold":  0.0000001
+}
